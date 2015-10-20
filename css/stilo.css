@@ -1,0 +1,28 @@
+#principal{
+	text-align: center;
+	color: white;
+}
+table{
+	width:90%;
+	border-color: blue:;
+	border-width: medium;
+
+}
+td{
+	text-align: center;
+	border-style: solid;
+}
+h2{
+	text-align: center;
+	color: #A3D1FF;
+}
+p{
+	text-align: justify;
+}
+#titulo{
+	color: blue;
+
+}
+#index{
+	background-color: #293D3D;
+}
