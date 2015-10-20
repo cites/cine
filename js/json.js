@@ -5,3 +5,11 @@ function omdb(url){
        });
  });
 }
+
+function cambiacolor_over(celda){ 
+	celda.style.backgroundColor="#00006B"
+	 }
+
+function cambiacolor_out(celda){
+ celda.style.backgroundColor="#ffffff"
+  } 
