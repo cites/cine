@@ -1,5 +1,5 @@
 function cambiacolor_over(celda){ 
-	celda.style.backgroundColor="#4DB8B8"
+	celda.style.backgroundColor="#212150"
 	 }
 
 function cambiacolor_out(celda){
